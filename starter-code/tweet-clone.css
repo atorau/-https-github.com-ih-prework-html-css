@@ -3,6 +3,7 @@ body{
   border-color: rgb(225, 232, 237);
   border-width: 3px;
   border-style: solid;
+  font: Helvetica;
 }
 userName{
   color: rgb(0, 0, 0)
@@ -18,10 +19,16 @@ date{
   color: rgb(101, 116, 127)
 }
 button{
-  color: rgb(105, 120, 130)
+  color: rgb(105, 120, 130);
+  background:rgb(244, 248, 249);
+  border-color: rgb(225, 232, 237);
+  border-radius: 5px;
+
 }
-Follow{
-  color:rgb(85, 172, 238)
+#Follow{
+  color:rgb(85, 172, 238);
+  font-size: larger;
+
 }
 .Right{
  position:absolute;
